@@ -1,5 +1,6 @@
 1.      Judul paper
 Algoritma K-Nearest Neighbor Classification Sebagai Sistem Prediksi Predikat Prestasi Mahasiswa
+
 2.      Daftar isi paper Algoritma K-Nearest Neighbor Classification Sebagai Sistem Prediksi Predikat Prestasi Mahasiswa, sebagai berikut
 ●	Judul
 Judul dari paper adalah Algoritma K-Nearest Neighbor Classification Sebagai Sistem Prediksi Predikat Prestasi Mahasiswa.
@@ -18,20 +19,39 @@ Bahan yang digunakan dalam penelitian ini antara lain Data Mining dan Algoritma 
 ●	Hasil dan Pembahasan
 ●	Kesimpulan
 ●	Referensi
+
 3. Data yang digunakan dalam penelitian berupa data mahasiswa yang dibedakan menjadi beberapa atribut antara lain, NIM, Jenis Kelamin (JK), Jenis Tinggal (JT), 
 Umur, Jumlah Satuan Kredit Semester (JS), dan Jumlah Nilai Mutu (NM).
+
 4. Jumlah data yang digunakan dalam penelitian sebanyak 165 record data training dari mahasiswa angkatan 2012 dan 50 record data testing dari mahasiswa 
 angkatan 2014.
+
 5. Sumber data yang digunakan bersumber dari pengumpulan data mahasiswa menggunakan wawancara dan penyebaran kuesioner online. Wawancara dilakukan dengan pihak 
 Admin Program Studi Sistem Informasi dan diperoleh data mahasiswa aktif angkatan 2012 yang berjumlah 170 data. Sedangkan kuesioner online dilakukan menggunakan 
 google form yang disebarkan kepada 3 kelas angkatan 2014.
+
 6. Teori inti yang diimplementasikan dalam pengolahan data di antaranya, 
 Data Mining
 Data mining adalah proses yang menggunakan teknik statistik, matematika, kecerdasan buatan dan machine learning untuk mengekstraksi dan mengidentifikasi 
 informasi yang bermanfaat dan pengetahuan yang terkait dari berbagai database besar. 
+
 Algoritma K-Nearest Neighbor
 K-NN dilakukan dengan mencari kelompok k objek dalam data training yang paling dekat (mirip) dengan objek pada data baru atau data testing. Secara umum untuk
 mendefinisikan jarak antara dua objek x dan y
+
 Pengujian Akurasi 
 Pengujian akurasi dengan Confusion Matrix digunakan sebagai evaluasi model klasifikasi untuk memperkirakan objek yang benar atau salah. Sebuah matriks dari 
 prediksi yang akan dibandingkan dengan kelas yang asli dari inputan atau dengan kata lain berisi informasi nilai aktual dan prediksi pada klasifikasi.
+
+7. Hasil penelitian
+Proses prediksi dilakukan terhadap mahasiswa Program Studi Sistem Informasi angkatan 2014/2015 sebagai data testing dengan jumlah 50 data, serta berdasarkan 
+dari data angkatan 2012/2013 sebagai data training dengan jumlah 165 data yang menghasilkan pengujian akurasi sebesar 82%. Hasil dari perhitungan algoritma 
+KNN diimplementasikan terhadap sebuah Early Warning System (EWS). Output dari sistem yang dibangun dapat dijadikan sebagai acuan bagi mahasiswa untuk 
+meningkatkan prestasi dan predikat perkuliahan di masa yang akan datang.
+
+8. Kesimpulan yang diperoleh dari penelitian adalah perhitungan algoritma K-NN yang diterapkan dalam memprediksi predikat prestasi Mahasiswa mampu 
+menghasilkan akurasi dengan nilai 82%. Pengujian algoritma ini dilakukan menggunakan perhitungan confusion matrix yaitu membandingkan predikat pada 
+semester sebelumnya dengan predikat hasil prediksi. Proses prediksi predikat prestasi Mahasiswa dilakukan dengan membangun sebuah Early Warning System (EWS) 
+berdasarkan algoritma K-NN.Sistem yang dibangun mampu memprediksi sesuai dengan perhitungan algoritma secara manual. Data yang digunakan adalah 165 record
+data training dari Mahasiswa angkatan 2012 dan 50 record data testing dari mahasiswa angkatan 2014. Semakin banyak data yang digunakan maka semakin tinggi 
+akurasi yang dihasilkan dari algoritma K-NN pada kasus prediksi predikat mahasiswa.
