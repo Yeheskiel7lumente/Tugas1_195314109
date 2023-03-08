@@ -10,3 +10,8 @@ Jenis Kelamin, Jenis Tinggal, Umur, Jumlah Satuan Kredit Semester (SKS), dan Jum
 dilakukan sebuah prediksi berdasarkan kedekatan dari histori data lama (training) dengan data baru (testing). Penentuan atribut ini berdasarkan hasil 
 penelitian terdahulu yang memiliki kesamaan dalam kasus prediksi mahasiswa yang selanjutnya divalidasi oleh bagian Akademik Fakultas Sains dan Teknologi. 
 Selain itu, di dalam abstrak peneliti juga menyampaikan hasil akhir dari penelitian yang dilakukan.
+●	Pendahuluan 
+Terdapat dua tujuan dari penelitian ini yaitu memodelkan Algoritma K-NN sebagai salah satu metode prediksi pada kasus penentuan predikat prestasi mahasiswa. 
+Tujuan yang kedua yaitu membangun Early Warning System (EWS) sebagai prediksi predikat prestasi mahasiswa dengan menerapkan algoritma K-NN. 
+●	Bahan dan Metode Penelitian
+Bahan yang digunakan dalam penelitian ini antara lain Data Mining dan Algoritma K-Nearest Neighbor.
