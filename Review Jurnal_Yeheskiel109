@@ -1,0 +1,21 @@
+1.      Judul paper
+Algoritma K-Nearest Neighbor Classification Sebagai Sistem Prediksi Predikat Prestasi Mahasiswa
+2.      Daftar isi paper Algoritma K-Nearest Neighbor Classification Sebagai Sistem Prediksi Predikat Prestasi Mahasiswa, sebagai berikut
+●	Judul
+Judul dari paper adalah Algoritma K-Nearest Neighbor Classification Sebagai Sistem Prediksi Predikat Prestasi Mahasiswa.
+●	Abstrak
+Pada bagian Abstrak, peneliti menjelaskan mengenai latar belakang penelitian dinyatakan bahwa untuk mengetahui predikat prestasi mahasiswa dilakukan melalui prediksi. 
+Proses prediksi dilakukan dengan menggunakan metode K-Nearest Neighbor (KNN). Atribut yang digunakan dalam proses prediksi adalah Jenis Kelamin, Jenis Tinggal, Umur, 
+Jumlah Satuan Kredit Semester (SKS), dan Jumlah Nilai Mutu (NM), sehingga dengan menerapkan algortima KNN dapat dilakukan sebuah prediksi berdasarkan kedekatan dari 
+histori data lama (training) dengan data baru (testing). Penentuan atribut ini berdasarkan hasil penelitian terdahulu yang memiliki kesamaan dalam kasus prediksi mahasiswa 
+yang selanjutnya divalidasi oleh bagian Akademik Fakultas Sains dan Teknologi. Selain itu, di dalam abstrak peneliti juga menyampaikan hasil akhir dari penelitian yang dilakukan.
+●	Pendahuluan 
+Terdapat dua tujuan dari penelitian ini yaitu memodelkan Algoritma K-NN sebagai salah satu metode prediksi pada kasus penentuan predikat prestasi mahasiswa. 
+Tujuan yang kedua yaitu membangun Early Warning System (EWS) sebagai prediksi predikat prestasi mahasiswa dengan menerapkan algoritma K-NN. 
+●	Bahan dan Metode Penelitian
+Bahan yang digunakan dalam penelitian ini antara lain Data Mining dan Algoritma K-Nearest Neighbor. Sedangkan metodologi penelitian dalam penelitian ini terdiri atas 
+Perencanaan --> Kajian Literatur --> Pengumpulan Data --> Proses Data Manual --> Perhitungan KNN --> Pengembangan Sistem --> Simulasi Model
+ 
+●	Hasil dan Pembahasan
+●	Kesimpulan
+●	Referensi
