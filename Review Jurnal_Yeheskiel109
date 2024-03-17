@@ -19,3 +19,18 @@ Perencanaan --> Kajian Literatur --> Pengumpulan Data --> Proses Data Manual -->
 ●	Hasil dan Pembahasan
 ●	Kesimpulan
 ●	Referensi
+
+3. Data yang digunakan dalam penelitian berupa data mahasiswa yang dibedakan menjadi beberapa atribut antara lain, NIM, Jenis Kelamin (JK), Jenis Tinggal (JT), Umur, 
+Jumlah Satuan Kredit Semester (JS), dan Jumlah Nilai Mutu (NM).
+4. Jumlah data yang digunakan dalam penelitian sebanyak 165 record data training dari mahasiswa angkatan 2012 dan 50 record data testing dari mahasiswa angkatan 2014.
+5. Sumber data yang digunakan bersumber dari pengumpulan data mahasiswa menggunakan wawancara dan penyebaran kuesioner online. Wawancara dilakukan dengan pihak Admin 
+Program Studi Sistem Informasi dan diperoleh data mahasiswa aktif angkatan 2012 yang berjumlah 170 data. Sedangkan kuesioner online dilakukan menggunakan google form 
+yang disebarkan kepada 3 kelas angkatan 2014.
+
+6. Teori inti yang diimplementasikan dalam pengolahan data di antaranya, 
+Data Mining
+Data mining adalah proses yang menggunakan teknik statistik, matematika, kecerdasan buatan dan machine learning untuk mengekstraksi dan mengidentifikasi informasi 
+yang bermanfaat dan pengetahuan yang terkait dari berbagai database besar. 
+Algoritma K-Nearest Neighbor
+K-NN dilakukan dengan mencari kelompok k objek dalam data training yang paling dekat (mirip) dengan objek pada data baru atau data testing. 
+
