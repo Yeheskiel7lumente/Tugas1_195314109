@@ -3,6 +3,7 @@ Pengujian akurasi dengan Confusion Matrix digunakan sebagai evaluasi model klasi
 Sebuah matriks dari prediksi yang akan dibandingkan dengan kelas yang asli dari inputan atau dengan kata lain berisi informasi nilai aktual 
 dan prediksi pada klasifikasi. 
 
+
 Hasil penelitian
 Proses prediksi dilakukan terhadap mahasiswa Program Studi Sistem Informasi angkatan 2014/2015 sebagai data testing dengan jumlah 50 data, 
 serta berdasarkan dari data angkatan 2012/2013 sebagai data training dengan jumlah 165 data yang menghasilkan pengujian akurasi sebesar 82%. 
@@ -15,4 +16,15 @@ pada semester sebelumnya dengan predikat hasil prediksi. Proses prediksi predika
 berdasarkan algoritma K-NN.Sistem yang dibangun mampu memprediksi sesuai dengan perhitungan algoritma secara manual. Data yang digunakan adalah 165 record data 
 training dari Mahasiswa angkatan 2012 dan 50 record data testing dari mahasiswa angkatan 2014. Semakin banyak data yang digunakan maka semakin tinggi akurasi yang 
 dihasilkan dari algoritma K-NN pada kasus prediksi predikat mahasiswa.
+
+Dalam merumuskan masalah, langkah pertama dan paling penting adalah memilih dan mendefinisikan dengan baik rumusan masalah. Peneliti harus menemukan masalah dan 
+merumuskan untuk mungkin dapat diteliti. Seperti dokter, seorang peneliti harus menguji seluruh gejala (baik ditunjukkan kepada peneliti atau diamati/diobservasi oleh 
+peneliti itu sendiri) berfokus pada permasalahan sebelum peneliti dapat mendeteksi secara tepat. Untuk mendefinisikan permasalahan dengan tepat, peneliti harus mengenal: 
+
+Apa yang dimaksud Rumusan Masalah?
+Secara umum, rumusan masalah merujuk pada beberapa kesulitan yang mana pengalaman peneliti pada konteks baik dengan situasi teori atau praktek dan keinginan untuk
+memperoleh solusi sekaligus. Biasanya dapat dikatakan bahwa rumusan masalah ditemukan jika didapati kondisi berikut:
+1.	Pasti ada satu individu (atau kelompok maupun organisasi), ibaratkan kita menyebutnya ‘I’ kepada siapa masalah dapat dikaitkan. Seorang individu maupun organisasi, 
+sebagaimana kasusnya, menduduki suatu lingkungan, ibaratkan ‘N’, didefinisikan oleh nilai variabel tak terkontrol.
+
 
